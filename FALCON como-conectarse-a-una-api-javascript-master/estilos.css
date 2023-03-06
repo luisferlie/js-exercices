@@ -25,6 +25,13 @@ body {
 
 }
 
+.banner {
+	width: 200px;
+	height: 400px;
+	background-color: #b61924;
+	margin: 0 auto;
+}
+
 .banner-top {
 	position: absolute;
 	color: white;
